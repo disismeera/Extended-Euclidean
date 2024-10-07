@@ -16,4 +16,5 @@ Displays a step-by-step table showing the progression of the algorithm. <br>
 - A linear combination showing the relationship between the GCD and the input integers. <br>
 - A detailed table showing each step of the algorithm. <br>
 <br>
+
 ![image](https://github.com/user-attachments/assets/5c8e8a9a-ffcd-4941-9f44-6e26cde3c2d0)
