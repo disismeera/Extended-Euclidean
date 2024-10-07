@@ -3,8 +3,8 @@ C program implementing the Extended Euclidean Algorithm to calculate the GCD of 
 
 Computes the GCD of two integers using the Euclidean Algorithm. <br>
 Utilizes the Extended Euclidean Algorithm to find coefficients 𝑥 and 𝑦 such that: <br>
-gcd(𝑎,𝑏)=𝑎*𝑥+𝑏*𝑦 <br>
-Displays a step-by-step table showing the progression of the algorithm. <br>
+**gcd(𝑎,𝑏)=𝑎*𝑥+𝑏*𝑦** <br>
+
 <br>
 
 **Input:** <br>
