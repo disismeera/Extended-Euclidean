@@ -46,7 +46,7 @@ void display_table(int a, int b) {
         b = remainder;
     }
 
-    printf("|  %4d  | %5d | %5d |       |       | %5d | %5d |\n", 
+    printf("|  %4d  | %5d | %5d |        |        | %5d | %5d |\n", 
             step, a, b, x_prev, y_prev);
     printf("-------------------------------------------------------------\n");
 }
